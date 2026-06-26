@@ -5,13 +5,13 @@
 
 **B.Sc Electrical and Electronic Engineer • University of Benin**
 
-[LinkedIn](https://www.linkedin.com/in/ifeanyichukwu-ude-natha-6022b4197/) • [Email](mailto:udenathasalvation003@gmail.com) • [ResearchGate](your-researchgate-url)
+[LinkedIn](https://www.linkedin.com/in/ifeanyichukwu-ude-natha-6022b4197/) • [Email](mailto:udenathasalvation003@gmail.com) • [ResearchGate](https://www.researchgate.net/profile/Ifeanyichukwu-Ude-Natha?ev=hdr_xprf)
 </div>
 <hr>
 
 ## Tactical Overview
 
-I am an Electrical and Electronic Engineer working at the intersection of **next-generation wireless communications, integrated sensing, and signal processing**.
+I am an Electrical and Electronic Engineer working at the crossroads of **next-generation wireless communications, integrated sensing, and signal processing**.
 
 My research focuses on the **design and simulation of OFDM-based ISAC systems that jointly optimize radar sensing and communication performance within standard-compliant 5G NR frameworks**.
 

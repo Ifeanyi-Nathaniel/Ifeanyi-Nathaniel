@@ -1,7 +1,7 @@
 <div align="center">
   
 # Ifeanyichukwu Salvation Ude-Natha
-### 5G/6G Wireless Communications | Integrated Sensing and Communication | Physical Layer Design
+### 5G/6G Wireless Communications | Integrated Sensing and Communication | Telecommunications | NTN
 
 **B.Sc Electrical and Electronic Engineer • University of Benin**
 
